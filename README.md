@@ -9,10 +9,15 @@ The **Decentralized Voting DApp** is a blockchain-based voting system designed t
 
 ## 🔥 Key Features
 ✅ **Blockchain Security** - Every vote is recorded on the Ethereum blockchain, ensuring transparency and integrity.
+
 ✅ **Smart Contract-Based Voting** - Uses Hardhat for smart contract development and deployment.
+
 ✅ **User-Friendly Interface** - Developed with Next.js for a seamless user experience.
+
 ✅ **Decentralized System** - No single authority can manipulate the votes, ensuring a fair election.
+
 ✅ **Candidate Registration** - Allows administrators to register candidates securely.
+
 ✅ **Real-Time Vote Counting** - The blockchain automatically updates and displays voting results.
 ---
 

@@ -44,7 +44,7 @@ The **Decentralized Voting DApp** is a blockchain-based voting system designed t
 Ensure you have the following installed:
 - Node.js & npm
 - Hardhat
-- MetaMask (or any Ethereum-compatible wallet)
+- MetaMask 
 
 ### Installation
 ```sh

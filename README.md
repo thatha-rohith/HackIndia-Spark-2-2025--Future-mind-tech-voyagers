@@ -78,8 +78,8 @@ npm run dev
 ## 📜 Environment Variables
 Create a `.env` file in the root directory and add the following variables:
 ```
-INFURA_PROJECT_ID=your_project_id
-PRIVATE_KEY=your_wallet_private_key
+NEXT_PUBLIC_PINATA_API_KEY = 48d63884dc18a9b8f65a
+NEXT_PUBLIC_PINATA_SECRECT_KEY = 77a3108f3dbd23cf874301680c2be6b4e281ef4c007d0c8ead4c010053168772
 ```
 These are required for interacting with the Ethereum network.
 

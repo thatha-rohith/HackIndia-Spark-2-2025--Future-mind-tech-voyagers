@@ -94,15 +94,14 @@ We welcome contributions! Feel free to submit PRs or open issues.
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License.
 
----
 
 ## 📢 Contact & Support
 For queries reach
 📧 Email: thatharohith062@gmail.com 
+
 Phone No :8885491864
+
 📌 GitHub Issues: [Issues Section](https://github.com/thatha-rohith/HackIndia-Spark-2-2025--Future-mind-tech-voyagers/issues)
 
 🚀 Let’s build a transparent future with blockchain! **#HackIndia #Blockchain #VotingDApp**

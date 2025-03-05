@@ -91,7 +91,7 @@ Team Members
 - **Thatha Rohith** - Frontend, Backend
 - **Sowbarnika** - Java script
 
-We welcome contributions! Feel free to submit PRs or open issues.
+
 
 ---
 

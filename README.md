@@ -87,8 +87,9 @@ These are required for interacting with the Ethereum network.
 
 ## 🤝 Contributors
 Team Members
-- **Rishi** - Smart Contract & Blockchain Developer
-- **Team Members** - Frontend, Backend
+- ** Kamakshi Rishitha** - Smart Contract & Blockchain Developer
+- **Thatha Rohith** - Frontend, Backend
+- **Sowbarnika** - Java script
 
 We welcome contributions! Feel free to submit PRs or open issues.
 
